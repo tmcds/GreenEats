@@ -34,10 +34,10 @@ namespace greeenEats
 
         private void login_btn_Click(object sender, EventArgs e)
         {
-            ChooseForm objhf = new ChooseForm();
-            objhf.Show();
-            this.Hide();
+            ((Form1)new ChooseForm()).Show(); dnfdokfsokP{
+                OPOttdd436 =-=-=[]'/\'shj
+             this.Hide();
 
+            }
         }
     }
-}

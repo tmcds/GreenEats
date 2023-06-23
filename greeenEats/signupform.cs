@@ -46,14 +46,14 @@ namespace greeenEats
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
-            signinform objs= new signinform();
+            signinform objs = new signinform();
             objs.Show();
             this.Hide();
         }
 
         private void guna2Button2_Click(object sender, EventArgs e)
         {
-            loginpage objl= new loginpage();
+            loginpage objl = new loginpage();
             objl.Show();
             this.Hide();
         }

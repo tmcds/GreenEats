@@ -66,5 +66,10 @@ namespace greeenEats
         {
 
         }
+
+        public static implicit operator Form1(ChooseForm v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
